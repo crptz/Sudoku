@@ -11,8 +11,8 @@ public class SudokuDatabase {
 
     private void initSudokuDatabase()
     {
-        String dbUser = "newuser";
-        String dbPass = "password";
+        String dbUser = ""; // Put your username for your phpMyAdmin localhost
+        String dbPass = ""; // Put your password for your phpMyAdmin localhost
 
         String dbHost = "localhost";
         String dbPort = "3306";
